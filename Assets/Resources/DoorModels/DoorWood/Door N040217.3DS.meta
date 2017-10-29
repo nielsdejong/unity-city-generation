@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: e0626822d0bafa3479227545afa91808
+timeCreated: 1490539364
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _DGeom_1
+    100002: _DGeom_10
+    100004: _DGeom_11
+    100006: _DGeom_12
+    100008: _DGeom_13
+    100010: _DGeom_14
+    100012: _DGeom_15
+    100014: _DGeom_16
+    100016: _DGeom_17
+    100018: _DGeom_18
+    100020: _DGeom_19
+    100022: _DGeom_2
+    100024: _DGeom_20
+    100026: _DGeom_21
+    100028: _DGeom_22
+    100030: _DGeom_23
+    100032: _DGeom_24
+    100034: _DGeom_25
+    100036: _DGeom_26
+    100038: _DGeom_27
+    100040: _DGeom_28
+    100042: _DGeom_29
+    100044: _DGeom_3
+    100046: _DGeom_30
+    100048: _DGeom_4
+    100050: _DGeom_5
+    100052: _DGeom_6
+    100054: _DGeom_7
+    100056: _DGeom_8
+    100058: _DGeom_9
+    100060: //RootNode
+    400000: _DGeom_1
+    400002: _DGeom_10
+    400004: _DGeom_11
+    400006: _DGeom_12
+    400008: _DGeom_13
+    400010: _DGeom_14
+    400012: _DGeom_15
+    400014: _DGeom_16
+    400016: _DGeom_17
+    400018: _DGeom_18
+    400020: _DGeom_19
+    400022: _DGeom_2
+    400024: _DGeom_20
+    400026: _DGeom_21
+    400028: _DGeom_22
+    400030: _DGeom_23
+    400032: _DGeom_24
+    400034: _DGeom_25
+    400036: _DGeom_26
+    400038: _DGeom_27
+    400040: _DGeom_28
+    400042: _DGeom_29
+    400044: _DGeom_3
+    400046: _DGeom_30
+    400048: _DGeom_4
+    400050: _DGeom_5
+    400052: _DGeom_6
+    400054: _DGeom_7
+    400056: _DGeom_8
+    400058: _DGeom_9
+    400060: //RootNode
+    2300000: _DGeom_1
+    2300002: _DGeom_10
+    2300004: _DGeom_11
+    2300006: _DGeom_12
+    2300008: _DGeom_13
+    2300010: _DGeom_14
+    2300012: _DGeom_15
+    2300014: _DGeom_16
+    2300016: _DGeom_17
+    2300018: _DGeom_18
+    2300020: _DGeom_19
+    2300022: _DGeom_2
+    2300024: _DGeom_20
+    2300026: _DGeom_21
+    2300028: _DGeom_22
+    2300030: _DGeom_23
+    2300032: _DGeom_24
+    2300034: _DGeom_25
+    2300036: _DGeom_26
+    2300038: _DGeom_27
+    2300040: _DGeom_28
+    2300042: _DGeom_29
+    2300044: _DGeom_3
+    2300046: _DGeom_30
+    2300048: _DGeom_4
+    2300050: _DGeom_5
+    2300052: _DGeom_6
+    2300054: _DGeom_7
+    2300056: _DGeom_8
+    2300058: _DGeom_9
+    3300000: _DGeom_1
+    3300002: _DGeom_10
+    3300004: _DGeom_11
+    3300006: _DGeom_12
+    3300008: _DGeom_13
+    3300010: _DGeom_14
+    3300012: _DGeom_15
+    3300014: _DGeom_16
+    3300016: _DGeom_17
+    3300018: _DGeom_18
+    3300020: _DGeom_19
+    3300022: _DGeom_2
+    3300024: _DGeom_20
+    3300026: _DGeom_21
+    3300028: _DGeom_22
+    3300030: _DGeom_23
+    3300032: _DGeom_24
+    3300034: _DGeom_25
+    3300036: _DGeom_26
+    3300038: _DGeom_27
+    3300040: _DGeom_28
+    3300042: _DGeom_29
+    3300044: _DGeom_3
+    3300046: _DGeom_30
+    3300048: _DGeom_4
+    3300050: _DGeom_5
+    3300052: _DGeom_6
+    3300054: _DGeom_7
+    3300056: _DGeom_8
+    3300058: _DGeom_9
+    4300000: _DGeom_1
+    4300002: _DGeom_2
+    4300004: _DGeom_3
+    4300006: _DGeom_4
+    4300008: _DGeom_5
+    4300010: _DGeom_6
+    4300012: _DGeom_7
+    4300014: _DGeom_8
+    4300016: _DGeom_9
+    4300018: _DGeom_10
+    4300020: _DGeom_11
+    4300022: _DGeom_12
+    4300024: _DGeom_13
+    4300026: _DGeom_14
+    4300028: _DGeom_15
+    4300030: _DGeom_16
+    4300032: _DGeom_17
+    4300034: _DGeom_18
+    4300036: _DGeom_19
+    4300038: _DGeom_20
+    4300040: _DGeom_21
+    4300042: _DGeom_22
+    4300044: _DGeom_23
+    4300046: _DGeom_24
+    4300048: _DGeom_25
+    4300050: _DGeom_26
+    4300052: _DGeom_27
+    4300054: _DGeom_28
+    4300056: _DGeom_29
+    4300058: _DGeom_30
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
